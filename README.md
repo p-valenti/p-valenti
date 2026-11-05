@@ -1,4 +1,4 @@
-## Hi, I'm Valentina 👋
+# Hi, I'm Valentina 👋
 
 I'm a Security Engineer with a background in information security, systems administration, and application development.
 
