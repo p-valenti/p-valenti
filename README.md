@@ -15,15 +15,7 @@ My development background helps me understand applications, APIs, authentication
 
 ## Current focus
 
-I'm currently refreshing and expanding my hands-on security work through practical security reviews and hardening projects.
-
-### Featured projects
-
-- **Menu Application Security Review & Hardening**
-  Security assessment of an existing Node.js / Express / MongoDB application with JWT authentication, focusing on authorization, API security, input validation, and security testing.
-
-- **Parking Application Security Hardening**
-  Planned security review of a React / Node.js / MongoDB application, with focus on API security, Docker and database hardening, secure configuration, and dependency security.
+I’m currently refreshing and expanding my hands-on security skills through practical labs, security reviews, and infrastructure security exercises.
 
 ## Technologies
 
